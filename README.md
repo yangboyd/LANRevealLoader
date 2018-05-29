@@ -17,4 +17,4 @@ Loader与Server分开的好处显而易见，不同的Reveal版本只要替换�
 
 ## Install
 
-从RevealServer.framework/RevealServer获取RevealServer，并下载[LANRevealLoader](https://github.com/lanvsblue/LANRevealLoader/releases/download/0.1/LANRevealLoader.zip)，解压后将LANRevealLoader.dylib、LANRevealLoader.plist、RevealServer放在已越狱iOS的/Library/MobileSubstrate/DynamicLibraries目录下。
+从Reveal.app/Contents/SharedSupport/iOS-Libraries/RevealServer.framework/RevealServer获取RevealServer，并下载[LANRevealLoader](https://github.com/lanvsblue/LANRevealLoader/releases/download/0.1/LANRevealLoader.zip)，解压后将LANRevealLoader.dylib、LANRevealLoader.plist、RevealServer放在已越狱iOS的/Library/TweakInject/目录下。
